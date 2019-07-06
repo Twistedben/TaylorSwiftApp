@@ -1,8 +1,7 @@
 # TaylorSwiftApp
 
 -------------------------
-### Ract-Native App
-
+### React-Native App
 
 Yes, an entire app dedicated to buying Taylor Swift albums. 
 
